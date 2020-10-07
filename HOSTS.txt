@@ -1,3 +1,30 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+0.0.0.0		www.instagram.com
+0.0.0.0		www.tiktok.com
+0.0.0.0		twitter.com
+0.0.0.0		mobile.twitter.com
+
 0.0.0.0       0.nextyourcontent.com
 0.0.0.0       000free.us
 0.0.0.0       0013langford.tumblr.com
@@ -1131,6 +1158,7 @@
 0.0.0.0       adultfreex.com
 0.0.0.0       adultfriendfinder.com
 0.0.0.0       adultgalls.com
+0.0.0.0       adultgames.fun
 0.0.0.0       adultgamescollector.com
 0.0.0.0       adultgameson.com
 0.0.0.0       adultgamesportal.com
@@ -1488,6 +1516,7 @@
 0.0.0.0       allvideos.us
 0.0.0.0       allwomenstalk.us.intellitxt.com
 0.0.0.0       allx.info
+0.0.0.0       allyoucanfeet.com
 0.0.0.0       almohidtrvl.com
 0.0.0.0       almostvirgins.com
 0.0.0.0       alo.asia
@@ -3523,6 +3552,7 @@
 0.0.0.0       calculatingtoothbrush.com
 0.0.0.0       calculatorcamera.com
 0.0.0.0       cale-filmy.online
+0.0.0.0       californiabeachfeet.com
 0.0.0.0       californiastateparks.com
 0.0.0.0       californiavirgins.com
 0.0.0.0       calivita.com
@@ -3593,8 +3623,8 @@
 0.0.0.0       candelluxsklep.pl
 0.0.0.0       candiceloves.us
 0.0.0.0       candid.zone
-0.0.0.0       candidteens.top
 0.0.0.0       candidatos.cl
+0.0.0.0       candidteens.top
 0.0.0.0       candycrushcheatzone.com
 0.0.0.0       candypeople.se
 0.0.0.0       canfaceoff.112.2o7.net
@@ -4570,6 +4600,7 @@
 0.0.0.0       crana.ie
 0.0.0.0       crawlability.com
 0.0.0.0       crawlclocks.com
+0.0.0.0       crazyaboutfeet.com
 0.0.0.0       crazyasiangfs.com
 0.0.0.0       crazychimps.com
 0.0.0.0       crazyegg.com
@@ -6827,16 +6858,20 @@
 0.0.0.0       fontsquirrel.co
 0.0.0.0       foo.cosmocode.de
 0.0.0.0       fooabfla.blackapplehost.com
+0.0.0.0       foot-art.com
+0.0.0.0       footadoration.com
 0.0.0.0       footdreams.net
 0.0.0.0       footerroll.admedia.com
 0.0.0.0       footfetish.cc
 0.0.0.0       footfetish.dk
+0.0.0.0       footfetishcuties.com
 0.0.0.0       footfetishdaily.com
 0.0.0.0       footfetishdreams.com
 0.0.0.0       footfetishporno.com
 0.0.0.0       footjob-hd.net
 0.0.0.0       footjobvirgin.com
 0.0.0.0       footsiebabes.com
+0.0.0.0       footworshipstudios.com
 0.0.0.0       footymad.uk.intellitxt.com
 0.0.0.0       fooxy.com
 0.0.0.0       forbes.us.intellitxt.com
@@ -14109,6 +14144,7 @@
 0.0.0.0       pornvtope.blogspot.mx
 0.0.0.0       pornvtope.blogspot.no
 0.0.0.0       pornvtope.blogspot.pt
+0.0.0.0       pornworld.com
 0.0.0.0       pornworld.name
 0.0.0.0       pornxio.com
 0.0.0.0       pornxp.com
@@ -15839,6 +15875,7 @@
 0.0.0.0       sexycamgals.com
 0.0.0.0       sexycandidgirls.com
 0.0.0.0       sexycarbabes.com
+0.0.0.0       sexyfeet.tv
 0.0.0.0       sexyfuckgamers.com
 0.0.0.0       sexyhayvl.pro
 0.0.0.0       sexylondonkeys.com
@@ -18828,6 +18865,7 @@
 0.0.0.0       wikidevs.com
 0.0.0.0       wikifeet.com
 0.0.0.0       wikifeetx.com
+0.0.0.0       www.wikilegs.org
 0.0.0.0       wikipediia.de
 0.0.0.0       wildhorse.co.kr
 0.0.0.0       wildsexteens.com
@@ -19264,6 +19302,7 @@
 0.0.0.0       www.adobee.com
 0.0.0.0       www.adocean.pl
 0.0.0.0       www.adoptim.com
+0.0.0.0       www.adorablelegs.com
 0.0.0.0       www.adorigin.com
 0.0.0.0       www.adpeepshosted.com
 0.0.0.0       www.adperium.com
@@ -20577,6 +20616,7 @@
 0.0.0.0       www.feedjit.com
 0.0.0.0       www.feet9.com
 0.0.0.0       www.feetcore.com
+0.0.0.0       www.feetjeans.com
 0.0.0.0       www.feetwebcams.com
 0.0.0.0       www.felonyangel.com
 0.0.0.0       www.femdom-fetish-tube.com
@@ -20661,6 +20701,7 @@
 0.0.0.0       www.folloyu.com
 0.0.0.0       www.fookgle.com
 0.0.0.0       www.footfetishdaily.com
+0.0.0.0       www.footfetishdirectory.com
 0.0.0.0       www.footfetishdreams.com
 0.0.0.0       www.footfetishporno.com
 0.0.0.0       www.footjobvirgin.com
@@ -23929,7 +23970,6 @@
 0.0.0.0       www.wikiangela.com
 0.0.0.0       www.wikifeet.com
 0.0.0.0       www.wikifeetx.com
-0.0.0.0       www.wikilegs.org
 0.0.0.0       www.wild1050.tumblr.com
 0.0.0.0       www.wildesporno.xxx
 0.0.0.0       www.wildfireextrem.tumblr.com
@@ -25023,3 +25063,4 @@
 0.0.0.0       zzitube.com
 0.0.0.0       zzsyw.com
 0.0.0.0       zzztube.com
+
